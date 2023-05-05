@@ -1,2 +1,2 @@
-# react-sidebar-layout-app
+# react-sidebar
 Created with CodeSandbox
